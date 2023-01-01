@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benj-lazaro
 - 👀 I’m interested in Automation, Backend WebDev, Ethical Hacking, & Network Management Systems
-- 🌱 I’m currently learning Python, (re-learning PHP/MySQL), Laravel
+- 🌱 I’m currently learning Python, (re-learning PHP/MySQL)
 - 💞️ I’m on the lookout for remote Developer / IT support jobs 
 - 📫 How to reach me: <a href="https://twitter.com/benj_lazaro">@benj_lazaro</a>
 
