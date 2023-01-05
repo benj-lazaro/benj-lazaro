@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benj Lazaro @benj-lazaro
+- 👋 Hi, I’m @benj-lazaro
 - 👀 I’m interested in Automation, Backend WebDev, InfoSec, & Network Management Systems
 - 🌱 I’m currently learning Python
 - 💞️ I’m on the lookout for remote Developer / IT support jobs 
