@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benj Lazaro
 - 👀 I’m interested in Automation, Backend Web Dev, InfoSec, & Network Management Systems (NMS)
-- 🌱 I’m currently learning Python
+- 🌱 I’m continuously learning Python
 - 💞️ I’m on the lookout for remote Network Automation & Software Developer roles
 - 📫 How to reach me: <a href="https://twitter.com/benj_lazaro">@benj_lazaro</a>
 
