@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benj Lazaro
 - 👀 I’m interested in Backend Web Development, InfoSec, & Network Automation
-- 🌱 I’m continuously learning Git, Python
+- 🌱 I’m continuously learning Python
 - 💞️ I’m on the lookout for remote Software Development roles (preferably automation)
 - 📫 How to reach me: <a href="https://twitter.com/benj_lazaro">@benj_lazaro</a>
 
