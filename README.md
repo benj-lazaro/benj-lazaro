@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benj Lazaro
-- 👀 I’m interested in Backend Web Development, InfoSec, & Network Automation
+- 👀 I’m interested in Backend Web Development, InfoSec, & Automation
 - 🌱 I’m continuously learning Linux, Python 3, Full-stack Web Development
 - 💞️ I’m currently on the lookout for a remote Software Developer role
 - 💞️ Earned CompTIA A+, Linux+, (in the processing of renewing) LPIC-1 & CCNA certifications
