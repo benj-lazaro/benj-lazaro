@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benj Lazaro
-- 👀 I’m interested in Backend Web Development, InfoSec, & Automation
-- 🌱 Continuously learning Linux (debian-based), Python 3, Full-stack Web Development
+- 👀 I’m interested in Automation, Backend Web Development, and InfoSec
+- 🌱 Continuously learning Linux, Python 3, and Full-stack Web Development
 - 💞️ On the lookout for a remote (WFH) Software Developer role
 - 📫 How to reach me: <a href="mailto: benjie.work@gmail.com">Email</a> or Twitter <a href="https://twitter.com/benj_lazaro">@benj_lazaro</a>
 
