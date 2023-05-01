@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benj Lazaro
 - 👀 I’m interested in Automation, InfoSec, Python and Web Development
-- 🌱 Background in Network Support (L2/L3 Network Devices, Network Mgmt Systems apps), Tech Support (PC hardware) and Backend Web Development
+- 🌱 Background in Network Support (Telco), Tech Support (PC hardware) & Backend Web Development
 - 🌱 Earned CompTIA A+, CompTIA Linux+, LPIC-1 Linux & Cisco CCNA certifications
 - 💞️ Continuously learning Linux, Python 3, and Full-stack Web Development
 - 👀 On the lookout for remote/WFH Software Developer job role
