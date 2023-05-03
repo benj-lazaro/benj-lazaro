@@ -2,7 +2,7 @@
 - 👀 I’m interested in InfoSec, Python & Web Development
 - 👀 On the lookout for remote/WFH Software Developer job roles
 - 🌱 Background in Network Support (Telco) & Backend Web Development
-- 💞️ Continuously learning Linux, Python 3, and Full-stack Web Development
+- 💞️ Continuously learning Linux, Python 3, and Web Development
 - 📫 How to reach me: <a href="mailto: benjie.work@gmail.com">Email</a> or Twitter <a href="https://twitter.com/benj_lazaro">@benj_lazaro</a>
 
 <!---
