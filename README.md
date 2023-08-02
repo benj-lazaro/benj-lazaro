@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benj Lazaro
 - 👀 Interests in InfoSec, Python & Web Development
-- 🌱 Background on back-end web development & network support (customer premesis)
-- 💞️ Continuously learning front-end web development and python 3
+- 🌱 Experienced back-end web developer and network support engineer
+- 💞️ Continuously learning Python and Web development
 <!--- - 📫 How to reach me: <a href="mailto: benjie.work@gmail.com">Email</a> or Twitter <a href="https://twitter.com/benj_lazaro">@benj_lazaro</a> --->
 
 <!---
