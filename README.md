@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benj Lazaro
 - 👀 Interests in InfoSec, Python & Web Development
-- 🌱 Web Developer and Technical Support Engineer
+- 🌱 Web Developer | Technical Support Engineer
 
 <!---
 benj-lazaro/benj-lazaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
