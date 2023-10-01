@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Benj Lazaro
 - 👀 Interests in InfoSec, Python & Web Development
-- 🌱 Seasoned web developer and technical support engineer
-<!--- - 📫 How to reach me: <a href="mailto: benjie.work@gmail.com">Email</a> or Twitter <a href="https://twitter.com/benj_lazaro">@benj_lazaro</a> --->
+- 🌱 Web Developer and Technical Support Engineer
 
 <!---
 benj-lazaro/benj-lazaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
