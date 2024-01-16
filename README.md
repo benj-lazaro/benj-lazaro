@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benj Lazaro
 - 👀 Interests in Automation, InfoSec and Web Development
-- 🌱 Web Developer | Technical Support Engineer
+- 🌱 Web Developer | Technical Support Engineer (Telco)
 
 <!---
 benj-lazaro/benj-lazaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
