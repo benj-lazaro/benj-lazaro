@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benj Lazaro
-- 👀 Interests in Automation, InfoSec, & Web Development & InfoSec
+- 👀 Interests in Automation and Web Development
 - 🌱 Web Developer | Technical Support Engineer
 
 <!---
